@@ -7,4 +7,8 @@ public class Main {
     public static void login() {
         System.out.println("Logged in");
     }
+
+    public static void register() {
+        System.out.println("registering...");
+    }
 }
