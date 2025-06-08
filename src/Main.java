@@ -5,7 +5,7 @@ public class Main {
     }
 
     public static void login() {
-        System.out.println("Logged in");
+        System.out.println("Login successful");
     }
 
     public static void register() {
